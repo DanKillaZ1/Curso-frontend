@@ -14,7 +14,7 @@ git clone https://github.com/DanKillaZ1/Curso-frontend.git
 
 ## Commits
 Informaçao de alteraçao
-- apos testado todo seu codigo000
+- apos testado todo seu codigo
 - git add *
 - git commit -m "mensagem"
 - git push (enviar alteraçao para o repositorio GitHub)
