@@ -20,6 +20,10 @@ Informaçao de alteraçao
 - git push (enviar alteraçao para o repositorio GitHub)
 - git pull (puxar / trazer alteraçoes do GitHub para a sua maquina)
 
+## subir as alteraçoes
+git push
+
+
 ## GitFlow
 Fluxo do Git.
 
